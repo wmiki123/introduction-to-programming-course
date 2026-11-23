@@ -1,0 +1,9 @@
+scene_id,cloud_percent,size_mb
+A,5,400
+B,90,100
+C,10,700
+D,20,600
+E,-1,20
+F,90,0
+G,0,50
+A,15,10
